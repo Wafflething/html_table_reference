@@ -1,0 +1,62 @@
+/*spacing*/
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+thead {
+    text-align: center;
+}
+
+table {
+    text-align: left;
+    align-content: center;
+    margin: auto;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+th, td {
+  padding: 10px;
+}
+
+/* typography */
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+thead {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+/* graphics and colors */
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: blue;
+}
+
+thead {
+    background-color: rgb(173,216,230);
+}
+
+thead th, tbody td, tfoot th, tfoot td {
+  border: 3px solid lightblue; 
+  }
+
+  th, td {
+  background-color: rgb(173,216,230,0.6); 
+}
